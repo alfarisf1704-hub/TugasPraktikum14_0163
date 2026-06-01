@@ -7,4 +7,6 @@ using namespace std;
 
 class tokoElektronik
 {
+private:
+public:
 }
