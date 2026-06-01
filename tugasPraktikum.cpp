@@ -4,3 +4,7 @@
 #include <array>
 
 using namespace std;
+
+class tokoElektronik
+{
+}
